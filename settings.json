@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GEN-Z_SMP3455.aternos.me",
-    "port": 45674,
+    "ip": "Dreamland-smp747.aternos.me",
+    "port": 62455,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a 24/7 bot",
         "Subscribe to GOD MIST GAMING!",
-        "JOIN DISCORD SERVER"
+        "Legend's never die"
       ]
     },
     "chat-log": true,
